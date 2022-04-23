@@ -1,0 +1,32 @@
+h1{
+    color: red;
+    border-style: solid;
+    background-color: ivory;
+    text-align: center;
+  }
+  h2{
+    color: green;
+  }
+  h3{
+    color: purple;
+  }
+  h4{
+    color: blue;
+  }
+  h5{
+    color: yellow;
+  }
+  body{
+    background-color: lightblue;
+    text-align: center;
+    font-family: Halvetica;
+  }
+  img{
+  width: 400px;
+  border-style: solid;
+  border-color: white;
+  }
+  table, td{
+    border-style: solid;
+    font: black;
+  }
